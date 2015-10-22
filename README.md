@@ -1,3 +1,7 @@
+TPL FIXED VERSION: Added semicolons to the end and the start of the file to prevent a broken uglified vendor.js
+
+=================================================================
+
 ![Preview of Nite Overlay](preview.jpg "Preview of Nite Overlay")
 
 # Nite Overlay - Overview
